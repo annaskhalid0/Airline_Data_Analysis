@@ -16,14 +16,7 @@ This project analyzes flight delay patterns, airline performance, and route tren
 - Cancellation reasons and patterns
 
 ## 📁 Dataset
-- Source: [Link to Dataset]
 - Size: 600K+ US domestic flight records (1 year)
-
-## 🖼️ Dashboard Screenshots
-*(Add 2–3 clean screenshots here)*
-
-## 🔗 Demo
-If dashboard is published to Power BI web: `[View Live Dashboard](yourlink.com)`
 
 ## 📌 Skills Demonstrated
 - Data cleaning & wrangling
